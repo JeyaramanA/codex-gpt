@@ -7,16 +7,16 @@
 
 **client**
 
-	`npm create vite@latest client --template vanilla`
+	npm create vite@latest client --template vanilla
   
-	`npm install'
+	npm install
 	
-	`npm run dev`
+	npm run dev
   
 **server**
 
-	`npm init -y`
+	npm init -y
   
-	`npm install cors dotenv express nodemon openai`
+	npm install cors dotenv express nodemon openai
 	
-	`npm run server`
+	npm run server
