@@ -10,9 +10,13 @@
 	`npm create vite@latest client --template vanilla`
   
 	`npm install'
+	
+	`npm run dev`
   
 **server**
 
 	`npm init -y`
   
 	`npm install cors dotenv express nodemon openai`
+	
+	`npm run server`
