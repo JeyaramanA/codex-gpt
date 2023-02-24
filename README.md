@@ -12,7 +12,6 @@
 	npm install
 	
 	npm run dev
-	[Fron-End deployment here](https://vercel.com/)
   
 **server**
 
@@ -22,4 +21,8 @@
 	
 	npm run server
 	
-	[Backend: Web service deployment here](https://dashboard.render.com/)
+### Deployment
+
+[Fron-End deployment here](https://vercel.com/)
+
+[Backend: Web service deployment here](https://dashboard.render.com/)
