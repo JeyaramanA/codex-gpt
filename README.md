@@ -12,6 +12,7 @@
 	npm install
 	
 	npm run dev
+	[Fron-End deployment here](https://vercel.com/)
   
 **server**
 
@@ -20,3 +21,5 @@
 	npm install cors dotenv express nodemon openai
 	
 	npm run server
+	
+	[Backend: Web service deployment here](https://dashboard.render.com/)
